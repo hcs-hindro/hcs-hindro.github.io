@@ -17,25 +17,25 @@ services:
         icon: fas fa-cogs       
       - title: "Industrial Ventilation"
         desc: "The safety, health, and welfare of employees should be one of the main concerns for any business owner. Apart from making your company look attractive to good workers, it also saves a lot of money year after year. By cleaning air contaminants, removing dust fumes, and bringing in large amounts of fresh air, an industrial ventilation system is one of the first lines of defense against sickness. Having proper ventilation is key to providing a safe and healthy workspace for your employees. A well-designed industrial ventilation system results in better health for your employees as well as reduced risk for workplace accidents."
-        icon: fab fa-city
+        icon: fas fa-city
       - title: "Centralised AC"
         desc: "Central air conditioning (or central A/C) is a system in which air is cooled at a central location and distributed to and from rooms by one or more fans and ductwork. The work of the air conditioner compressor is what makes the whole process of air conditioning possible. The team of HVAC professionals at Hindro Cooling Sol. provide efficient and reliable Centralised AC services."
-        icon: fab fa-wind
+        icon: fas fa-wind
       - title: "Chiller Plant"
         desc: "A chiller can be realized as a refrigeration system that cools the water. Air conditioners and dehumidifiers condition the air while a chiller, using the same refrigerating operations, cools the water, oil, or some other fluid. This chilled solution can then be used for cooling in a wide range of operations."
-        icon: fab fa-igloo
+        icon: fas fa-igloo
       - title: "Ductable and Packaged AC"
         desc: "Hindro Cooling Sol. which is catering unbeatable HVAC facilities with assured quality is now catering Ductable air conditioning & Packaged air conditioning installation services. We have tie up with known Ductable and Packaged AC manufacturers. According to need of our clients, we avail them best AC from manufacturers."
-        icon: fab fa-fan fa-spin
+        icon: fas fa-fan fa-spin
       - title: "Cold Room Service"
         desc: "Using high quality insulated panels, We create temperature controlled hygienic environments. From cold stores, cold rooms and hygienic food processing environments, through to chilled distribution warehouses and walk-in freezers, our experience and specialist expertise covers it all."
-        icon: fab fa-temperature-low
+        icon: fas fa-temperature-low
       - title: "Clean Room Service"
         desc: "As our scope is widened in HVAC industry, we also provide cleanroom design and construction services. We have expertise in designing clean room of every classification and helping our client with precise clean room design and installation. We are expert clean room Service provider in India and catering our client with technically sound solutions."
-        icon: fab fa-hand-sparkles
+        icon: fas fa-hand-sparkles
       - title: "Energy Audit"
         desc: "An energy audit is a series of tests that our HVAC professional performs to determine where your equipment is wasting energy through unwanted heat gain and loss, air leakage and inefficient appliances. All of these things not only increase your energy bills, but also make your infrastructure less comfortable."
-        icon: fab fa-book-reader
+        icon: fas fa-book-reader
 
 portfolio:
     title: "Portfolio"
