@@ -9,15 +9,33 @@ services:
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "HVAC Design & Consulting"
+        desc: "If you're building or remodeling a home, do you know how much thought is going into the design of your new HVAC system(s)? Do you know how much calculating is going into the HVAC design? If you want your heating, cooling, and ventilating system(s) to perform well, you need to start with good design. Here's why you want good HVAC design: You'll get a new heating and cooling system that is sized properly. Most new air conditioners are oversized, which means they don't dehumidify as well and can break down sooner. You'll get a distribution system that delivers the right amount of conditioned air to each room."
+        icon: fas fa-pencil-ruler #find more at https://fontawesome.com/icons
+      - title: "HVAC Services"
+        desc: "If you require the installation of new heating and air conditioning equipment or the repair of existing equipment, our team is ready to provide the reliable service that you deserve! Hindro cooling Sol. offers installation, repair, replacement and servicing for all your heating, ventilation, and air conditioning needs. Hindro cooling Sol. carries a variety of reliable and high-quality products to give you options. Your comfort is our goal, so we’re ready to work with you to find HVAC solutions that work with your budget, needs, and requirements. Integrity and service matter to us, so we back all our work with some of the industry’s best guarantees."
+        icon: fas fa-cogs       
+      - title: "Industrial Ventilation"
+        desc: "The safety, health, and welfare of employees should be one of the main concerns for any business owner. Apart from making your company look attractive to good workers, it also saves a lot of money year after year. By cleaning air contaminants, removing dust fumes, and bringing in large amounts of fresh air, an industrial ventilation system is one of the first lines of defense against sickness. Having proper ventilation is key to providing a safe and healthy workspace for your employees. A well-designed industrial ventilation system results in better health for your employees as well as reduced risk for workplace accidents."
+        icon: fab fa-city
+      - title: "Centralised AC"
+        desc: "Central air conditioning (or central A/C) is a system in which air is cooled at a central location and distributed to and from rooms by one or more fans and ductwork. The work of the air conditioner compressor is what makes the whole process of air conditioning possible. The team of HVAC professionals at Hindro Cooling Sol. provide efficient and reliable Centralised AC services."
+        icon: fab fa-wind
+      - title: "Chiller Plant"
+        desc: "A chiller can be realized as a refrigeration system that cools the water. Air conditioners and dehumidifiers condition the air while a chiller, using the same refrigerating operations, cools the water, oil, or some other fluid. This chilled solution can then be used for cooling in a wide range of operations."
+        icon: fab fa-igloo
+      - title: "Ductable and Packaged AC"
+        desc: "Hindro Cooling Sol. which is catering unbeatable HVAC facilities with assured quality is now catering Ductable air conditioning & Packaged air conditioning installation services. We have tie up with known Ductable and Packaged AC manufacturers. According to need of our clients, we avail them best AC from manufacturers."
+        icon: fab fa-fan fa-spin
+      - title: "Cold Room Service"
+        desc: "Using high quality insulated panels, We create temperature controlled hygienic environments. From cold stores, cold rooms and hygienic food processing environments, through to chilled distribution warehouses and walk-in freezers, our experience and specialist expertise covers it all."
+        icon: fab fa-temperature-low
+      - title: "Clean Room Service"
+        desc: "As our scope is widened in HVAC industry, we also provide cleanroom design and construction services. We have expertise in designing clean room of every classification and helping our client with precise clean room design and installation. We are expert clean room Service provider in India and catering our client with technically sound solutions."
+        icon: fab fa-hand-sparkles
+      - title: "Energy Audit"
+        desc: "An energy audit is a series of tests that our HVAC professional performs to determine where your equipment is wasting energy through unwanted heat gain and loss, air leakage and inefficient appliances. All of these things not only increase your energy bills, but also make your infrastructure less comfortable."
+        icon: fab fa-book-reader
 
 portfolio:
     title: "Portfolio"
@@ -78,47 +96,10 @@ clients:
       - title: "Creative Market"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
-    
-team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/1.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/3.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
           
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Drop us a note to know more."
     section: contact
     
 footer:
@@ -130,8 +111,6 @@ footer:
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
 
