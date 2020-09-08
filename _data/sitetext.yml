@@ -1,12 +1,12 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Welcome to
+    text: HindRO Cooling Sol.
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "We have got the training, experience, and know-how to do it right."
     section: services
     list:
       - title: "HVAC Design & Consulting"
