@@ -19,6 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : HindRO
 email      : anshu@hindro.in #this is also the email contact forms will go to
+id : xrgynywy
 description: "Hindro Cooling Sol. We have got the training, experience, and know-how to do it right. We experience in HVAC Design, Consulting & Services, Industrial Ventilation, Centralised AC, Chiller Plant, Ductable and Packaged AC, Cold Room Service, Clean Room Service and Energy Audits"
 author     : Anshu
 logo:     #optional, defaults to site title
